@@ -1,7 +1,7 @@
 class Conductor
   attr_accessible: :orchestra, :music
   
-  def play_music piece_of_music
+  def conduct_orchestra piece_of_music
     orchestra.play piece_of_music
   end
 end
