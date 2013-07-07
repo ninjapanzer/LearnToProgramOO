@@ -6,7 +6,7 @@ Here are the tools you will need.
 
 The code from this chapter
 
-RUBY
+RUBY - Preferable version 1.9.3
 
 Editor - Notepad++ SublimeText2 TextMate Whatever!
 
